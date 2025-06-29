@@ -6,7 +6,7 @@ This is a clean, responsive personal portfolio website built using **HTML**, **C
 
 ## 🔗 Live Demo
 
-> 🌐 [Visit Portfolio Website](file:///C:/Users/SATYAJIT/Desktop/Portfolio%20Website/index.html)
+> 🌐 [Visit Portfolio Website](https://souvik21937.github.io/Project-Portfolio/)
 
 ---
 
