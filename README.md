@@ -6,7 +6,7 @@ This is a clean, responsive personal portfolio website built using **HTML**, **C
 
 ## 🔗 Live Demo
 
-> 🌐 [Visit Portfolio Website](https://yourusername.github.io/portfolio-website)
+> 🌐 [Visit Portfolio Website](file:///C:/Users/SATYAJIT/Desktop/Portfolio%20Website/index.html)
 
 ---
 
@@ -49,8 +49,8 @@ https://yourusername.github.io/portfolio-website
 ## 📬 Contact
 
 - 📧 Email: duttasouvik0121@gmail.com 
-- 💼 LinkedIn: [linkedin.com/in/souvikdutta](https://linkedin.com/in/souvikdutta)  
-- 💻 GitHub: [github.com/souvikdutta](https://github.com/souvikdutta)
+- 💼 LinkedIn: [linkedin.com/in/souvikdutta](https://www.linkedin.com/in/souvik-dutta-4b4310201/)  
+- 💻 GitHub: [github.com/souvikdutta](https://github.com/Souvik21937)
 
 ---
 
